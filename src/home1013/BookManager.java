@@ -167,7 +167,7 @@ public void rentalBook() throws IOException {
 		System.out.println("대출 완료");
 	}
 }
-
+// 참 잘했어요
 public void returnBook() throws IOException {
 	boolean userFlag=false;
 	boolean bookFlag=false;
